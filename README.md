@@ -1,17 +1,30 @@
-# first_flutter_app
+# Проект: First flutter app
+Проект создан в рамках лабораторной работы №3. В данном проекте были изучены структура проекта и базовые концепции фреймворка - виджеты и дерево виджетов.
+## Автор
+**Имя:** Ульяна
+**группа:** ИСП-241
+## Стек и версии
+**Flutter:** 3.47.8
+**Dart:** 3.13.7
+**Платформа:** Web (Chrome)
+**IDE:** VS Code
 
-A new Flutter project.
+## Скриншот приложения
+![скриншот](img/step9_Ostapova.png)
 
-## Getting Started
+## Запуск
+1.	Клонировать репозиторий
+`git clone url_репозитория`
+2.	Перейти в папку проекта
+`cd first_fluter_app`
+3.	Выполнить
+`flutter pub get`
+4.	Запустить командой
+`flutter run -d chrome`
 
-This project is a starting point for a Flutter application.
+## Что изучено
+- Структура проекта и дерево виджетов.
+- Использование базовых виджетов, таких как: `MaterialApp`, `Scaffold`, `Container`, `Center`, `Text`.
+- Создание градиентов и стилизация текста.
+- Создание своего первого Flutter-проекта.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
